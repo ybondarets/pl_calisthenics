@@ -1,6 +1,6 @@
 # pl_calisthenics
 
-Here i will describe on of the possible
+Here i will describe one of the possible
 ways to create programming language.
 
 It will be simple language, but i want to try to do it
