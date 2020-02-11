@@ -14,7 +14,7 @@ Environment:
 
 - node v12.8.0
 
-P.S. I'm not pretend to the absolute true and rightness of my decisions. 
+P.S. I'm not pretend to the absolute true and right of my decisions. 
 Just want to have some fun and improve my knowledges.
 
 
