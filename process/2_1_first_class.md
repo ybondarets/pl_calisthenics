@@ -252,3 +252,6 @@ and implementation is pretty easy:
 
 It's all about this class. I think then we can continue in the
 next time. It will be small language syntax description.
+
+[Next part](./2_2_syntax_description.md)
+
