@@ -292,3 +292,5 @@ changed, but it's enough for now.
 
 At the next step we will configure testing engine
 to be available to work according to TDD. 
+
+[Next part](./1_3_configure_tests.md)

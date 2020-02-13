@@ -4,6 +4,7 @@
   "description": "Here i will describe on of the possible\nways to create programming language.",
   "scripts": {
     "test": "jest",
+    "test-coverage": "jest --coverage",
     "build": "webpack",
     "start": "webpack-dev-server"
   },

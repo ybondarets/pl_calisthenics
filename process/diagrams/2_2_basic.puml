@@ -1,0 +1,6 @@
+@startuml
+-> InputStream : code
+InputStream -> TokenStream : symbols
+TokenStream -> Parser: tokens
+Parser -> : AST
+@enduml
