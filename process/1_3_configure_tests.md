@@ -56,3 +56,5 @@ As everything is working okay, we can remove temporary testing files
 and go ahead.  
 
 Have a nice day, and see you.
+
+[Next part](./2_1_first_class.md)

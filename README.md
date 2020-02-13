@@ -18,3 +18,5 @@ P.S. I'm not pretend to the absolute true and right of my decisions.
 Just want to have some fun and improve my knowledges.
 
 
+You can start reading [here](./process/1_1_init_package_json.md).
+
