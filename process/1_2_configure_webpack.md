@@ -290,4 +290,5 @@ export default config;
 Basically that's it for webpack configuration. In a process of development it can be
 changed, but it's enough for now.
 
-At the next step we will start to develop))  
+At the next step we will configure testing engine
+to be available to work according to TDD. 
