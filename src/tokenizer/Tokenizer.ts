@@ -98,13 +98,3 @@ export default class Tokenizer {
         return ' \t\n'.indexOf(character) >= 0;
     }
 }
-
-// if (is_id_start(ch)) return read_ident();
-// if (is_punc(ch)) return {
-//     type  : "punc",
-//     value : input.next()
-// };
-// if (is_op_char(ch)) return {
-//     type  : "op",
-//     value : read_while(is_op_char)
-// };
