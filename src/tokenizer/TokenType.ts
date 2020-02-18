@@ -1,6 +1,10 @@
 enum TokenType {
     String = "String",
-    Number = "Number"
+    Number = "Number",
+    KeyWord = "KeyWord",
+    Identifier = "Identifier",
+    Punctuation = "Punctuation",
+    Operator = "Operator"
 }
 
 export default TokenType;

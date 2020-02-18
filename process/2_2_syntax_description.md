@@ -33,7 +33,7 @@ print(factorial(12));
 
 sum-of-2and2 = {
     12 + 13;
-    2 + 2 # can be without last semicolumn
+    2 + 2 # can be without last semicolon
 };
 ```
 
@@ -116,4 +116,6 @@ create language with possibility to import files
 we need to add `Composer` somewhere between `InputStream`, `TokenStream`
 and `Parser`. I will leave it to the "better times"=).
 
-In the next time we will create `TokenStream`. See you. 
+In the next time we will create `TokenStream`. See you.
+ 
+[Next part](./2_3_tokenizer.md)
