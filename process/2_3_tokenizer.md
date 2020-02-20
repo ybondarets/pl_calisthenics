@@ -702,7 +702,7 @@ describe('Operator test', () => {
 
 And `src/syntax/Operator.ts` implementation:
 ```typescript
-enum Punctuation {
+enum Operator {
     multiple = "*",
     divide = "/",
     power = "^",
@@ -719,12 +719,12 @@ enum Punctuation {
 
 
 const isOperator = (symbol: string): boolean => {
-    return Object.values(Punctuation).indexOf(symbol as Punctuation) >= 0;
+    return Object.values(Operator).indexOf(symbol as Operator) >= 0;
 };
 
 export { isOperator };
 
-export default Punctuation;
+export default Operator;
 ```
 
 Now i want to create test case to parse operators `__tests__/tokenizer/Tokenizer.test.ts`:
@@ -1033,3 +1033,5 @@ export default class Tokenizer {
 
 Next step will be AST description. We need to plan how our 
 code representation will look to handle it in easiest way.
+
+[Next part](./2_4_AST_description.md)
