@@ -1,4 +1,4 @@
-enum Punctuation {
+enum Operator {
     multiple = "*",
     divide = "/",
     power = "^",
@@ -15,9 +15,9 @@ enum Punctuation {
 
 
 const isOperator = (symbol: string): boolean => {
-    return Object.values(Punctuation).indexOf(symbol as Punctuation) >= 0;
+    return Object.values(Operator).indexOf(symbol as Operator) >= 0;
 };
 
 export { isOperator };
 
-export default Punctuation;
+export default Operator;
