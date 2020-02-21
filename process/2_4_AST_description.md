@@ -408,3 +408,5 @@ in the future but for now it will be enough.
 
 In the next part we will create parser to transform tokens list to the AST.
 See you later.
+
+[Next part](./2_5_parser.md)
